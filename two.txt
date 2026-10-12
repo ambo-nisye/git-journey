@@ -1,0 +1,1 @@
+Git is designed for speed, data integrity, and non‑linear workflows, allowing every developer to keep a full copy of a project’s history locally
