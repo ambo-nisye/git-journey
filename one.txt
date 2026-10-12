@@ -1,0 +1,2 @@
+Git is a distributed version control system created by Linus Torvalds in 2005 
+that lets developers track changes, manage code history, and collaborate efficiently using local and remote repositories.
